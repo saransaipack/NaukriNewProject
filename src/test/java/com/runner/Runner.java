@@ -30,6 +30,10 @@ launchBrowser(PageObjectManager.getpageObjectManager().getfileReaderManager().ge
 launchurl(PageObjectManager.getpageObjectManager().getfileReaderManager().getDataProperty("url"));
 PageObjectManager.getpageObjectManager().getLoginPage().validLogin();
 screenShot();
+
+
+
+
 quit();
 		
 		
